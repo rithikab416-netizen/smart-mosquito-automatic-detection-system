@@ -39,10 +39,6 @@ The project is designed to be extended into a *hardware-based IoT system in the 
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## ▶️ How to Run the Project
 1. Install Python (version 3.x)
 2. Download or clone this repository
@@ -79,4 +75,5 @@ can be used to detect and control mosquito presence.
 It serves as a strong foundation for future *IoT and Smart Home applications*.
 
 ---
+
 
