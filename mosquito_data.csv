@@ -1,0 +1,8 @@
+sound_level,temperature,humidity,label
+120,28,70,mosquito
+30,25,60,normal
+130,30,80,mosquito
+25,24,55,normal
+110,29,75,mosquito
+35,27,58,normal
+140,31,85,mosquito
